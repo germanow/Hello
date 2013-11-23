@@ -3,7 +3,7 @@ class Player
    if (warrior.feel.empty?) then
      warrior.walk!
     else 
-      warrior.attack!
+     warrior.attack!
    end
   end
 end
